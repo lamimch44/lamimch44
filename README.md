@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lamimch44/lamimch44/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lamimch44/lamimch44/snake.svg" alt="Snake animation" />
 
 ###
